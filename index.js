@@ -8,12 +8,24 @@
 
 // console.log(" " + add + " "); 
 
-console.log(a);
-console.log(b);
-var a = 4
-let b = 8
+// var a = 4
+// let x = 8
 
 // let c = 6
 // let b = 10
 
 // console.log(" " + a,b + " ");
+
+// alert("Redirect to lol.com?")
+
+let age = 67;
+let year =2324; 
+console.log("Age: " + age, year);
+
+year = 2019
+console.log ("year : " + year);
+
+const gu = "happy";
+// gu += " " + year; 
+//const doesn't let u append the /change variable value
+console.log("gu: " + gu + (year - age));
